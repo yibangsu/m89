@@ -1,0 +1,3 @@
+// the configured options and settings
+#define VERSION_MAJOR @M89_VERSION_MAJOR@
+#define VERSION_MINOR @M89_VERSION_MINOR@
